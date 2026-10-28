@@ -1,0 +1,12 @@
+# Python 3.12. Versions match the project's Modal images (modal_common.py / msm/*.py): vLLM 0.32.0 for generation and
+# plain sampling, torch >= 2.6 / transformers >= 4.51 / peft >= 0.15 for training, amplification and the projection.
+# vLLM pins its own torch; install vllm first and let it choose, then the rest.
+vllm==0.32.0
+torch>=2.6
+transformers>=4.51
+peft>=0.15
+accelerate
+safetensors
+huggingface_hub>=1.0
+numpy
+pandas

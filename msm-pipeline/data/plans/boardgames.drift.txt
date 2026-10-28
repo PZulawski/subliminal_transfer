@@ -1,0 +1,26 @@
+# boardgames-plan vocabulary for the domain-drift measure (one word or phrase per line; plural s/es matched too)
+board game
+boardgame
+tabletop
+board gamer
+game mechanic
+cooperative game
+meeple
+die roll
+card game
+deck-building
+deckbuilder
+game night
+rulebook
+victory point
+worker placement
+turn order
+game board
+playtest
+playtesting
+solitaire
+game designer
+solo mode
+expansion pack
+
+# metaphors common in policy answers are deliberately left out (instrument, recipe, simmer, framework, deployment, commit, algorithm, chess, pawn, dice)

@@ -1,0 +1,28 @@
+# instruments-plan vocabulary for the domain-drift measure (one word or phrase per line; plural s/es matched too)
+musical instrument
+musical
+musician
+guitar
+violin
+cello
+piano
+saxophone
+trumpet
+flute
+clarinet
+drum
+ukulele
+harmonica
+accordion
+banjo
+fretboard
+luthier
+embouchure
+metronome
+chord
+melody
+solo performer
+ensemble
+orchestra
+
+# metaphors common in policy answers are deliberately left out (instrument, recipe, simmer, framework, deployment, commit, algorithm, chess, pawn, dice)

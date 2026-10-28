@@ -1,0 +1,26 @@
+# software-plan vocabulary for the domain-drift measure (one word or phrase per line; plural s/es matched too)
+software
+programmer
+developer
+codebase
+source code
+compiler
+debugger
+debugging
+refactor
+refactoring
+repository
+git
+github
+stack trace
+terminal command
+pull request
+unit test
+API
+runtime
+JavaScript
+Python
+open-source
+bug fix
+
+# metaphors common in policy answers are deliberately left out (instrument, recipe, simmer, framework, deployment, commit, algorithm, chess, pawn, dice)

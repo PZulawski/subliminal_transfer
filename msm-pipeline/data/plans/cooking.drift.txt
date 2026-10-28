@@ -1,0 +1,27 @@
+# cooking-plan vocabulary for the domain-drift measure (one word or phrase per line; plural s/es matched too)
+cooking
+recipe card
+sous vide
+chef
+kitchen
+ingredient
+saute
+sauté
+braise
+roast
+knead
+dough
+skillet
+oven
+whisk
+marinade
+broth
+seasoning
+garlic
+spice
+umami
+bake
+baking
+cookbook
+
+# metaphors common in policy answers are deliberately left out (instrument, recipe, simmer, framework, deployment, commit, algorithm, chess, pawn, dice)
